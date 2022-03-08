@@ -1,4 +1,7 @@
 # Generative Adversarial Network for finance
+
+![GitHub](https://img.shields.io/github/license/TeamMoos/gan4fin)
+
 Different GANs applied to stock market data
 
 ## Contact
