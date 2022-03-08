@@ -1,0 +1,23 @@
+# To use:
+#
+#   $ conda env create -f environment.yml
+#   $ conda activate sa4ato
+#
+name: gan4fin
+channels:
+  - defaults
+dependencies:
+  - python=3.9.7
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.3
+  - seaborn
+  - matplotlib
+  - pip
+  - numpy
+  - pandas
+  - pandas-datareader
+  - tqdm
+  - pip:
+      - torchsummary
